@@ -1,0 +1,49 @@
+html, body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+
+div {
+    height: 13vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+}
+
+.gray {
+    background-color: gray;
+    padding: 10px;
+}
+
+.square {
+    background-color: lightblue;
+    height: 80px;
+    width: 80px;
+    position: relative;
+}
+
+.white {
+    height: 26vh;
+}
+
+p {
+    font-size: 1.7em;
+    padding: 0 30px;
+}
+
+.blue {
+    background-color: lightblue;
+}
+
+.turquoise {
+    background-color: turquoise;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.yellow {
+    background-color: yellow;
+}
